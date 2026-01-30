@@ -1,4 +1,5 @@
 # Module 1: Basics of English
+> https://chatgpt.com/share/697cf380-8b30-800c-a8f6-365c80521fd6
 
 👉 Malayalam Explanation + Daily Practice Tasks included
 
@@ -28,4 +29,30 @@ Practice (Task):
 2. Vowel കൊണ്ട് തുടങ്ങുന്ന 5 വാക്കുകൾ എഴുതുക (apple, egg…)
 3. A–Z alphabet ദിവസേന 2 പ്രാവശ്യം വായിക്കുക
 
+## 2. Numbers, Days, Months, Time (സംഖ്യകൾ, ദിവസങ്ങൾ, സമയം)
+Malayalam Explanation
+
+ദൈനംദിന ജീവിതത്തിൽ ഏറ്റവും കൂടുതൽ ഉപയോഗിക്കുന്നതാണ് numbers, days, time.
+
+Numbers (1–20)
+
+1 one, 2 two, 3 three, 4 four, 5 five 6 six, 7 seven, 8 eight, 9 nine, 10 ten 11 eleven – 20 twenty
+
+Days
+
+Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+
+Months
+
+January – December
+
+Time
+
+What time is it? → It is 10 o'clock
+
+It is 6:30 (six thirty)
+
+Practice:
+
+Say today’s day and date in English
 
