@@ -56,3 +56,194 @@ Practice:
 
 Say today’s day and date in English
 
+3. Greetings, Introductions & Common Phrases (അഭിവാദ്യങ്ങളും പരിചയപ്പെടുത്തലും)
+Malayalam Explanation
+
+മറ്റുള്ളവരോട് സംസാരിക്കാൻ ഉപയോഗിക്കുന്ന സാധാരണ വാക്കുകളാണ് greetings.
+
+Greetings
+
+Hello
+
+Hi
+
+Good morning
+
+Good evening
+
+Introductions
+
+My name is ____.
+
+I am from ____.
+
+Nice to meet you.
+
+Common Phrases
+
+Thank you
+
+Please
+
+Sorry
+
+Excuse me
+
+Practice Conversation:
+
+A: Hello! What is your name? B: My name is ____.
+
+4. Basic Sentence Structure (വാചക ഘടന)
+Malayalam Explanation
+
+English sentence സാധാരണയായി Subject + Verb + Object എന്ന ക്രമത്തിലാണ്.
+
+Structure
+
+Subject + Verb + Object
+
+Examples:
+
+I eat rice.
+
+She reads a book.
+
+They play cricket.
+
+5. Nouns, Pronouns & Articles (നാമം, സർവ്വനാമം, Articles)
+Malayalam Explanation
+
+ഒരു വസ്തുവിനെയോ ആളെയോ വിളിക്കുന്ന പേരാണ് Noun. Pronoun noun‑ന് പകരം ഉപയോഗിക്കുന്നു.
+
+Nouns
+
+Name of person, place, thing
+
+Example: boy, school, book
+
+Pronouns
+
+I, you, he, she, it, we, they
+
+Articles
+
+a – before consonant sound (a pen)
+
+an – before vowel sound (an apple)
+
+the – specific thing (the book)
+
+
+6. Simple Questions & Negatives (ചോദ്യങ്ങളും നിഷേധ വാക്യങ്ങളും)
+Malayalam Explanation
+
+ചോദ്യങ്ങൾ ചോദിക്കാനും ഇല്ല എന്ന് പറയാനും ഇത് ഉപയോഗിക്കുന്നു.
+
+Questions
+
+Are you a student?
+
+Do you like tea?
+
+Negatives
+
+I am not tired.
+
+She does not like coffee.
+
+
+7. Common Prepositions (സ്ഥാനം സൂചിപ്പിക്കുന്ന വാക്കുകൾ)
+Malayalam Explanation
+
+വസ്തുക്കളുടെ സ്ഥാനം പറയാൻ prepositions ഉപയോഗിക്കുന്നു.
+
+in – in the room
+
+on – on the table
+
+at – at school
+
+under – under the chair
+
+Example:
+
+The book is on the table.
+
+8. Common Adjectives & Adverbs (വിശേഷണങ്ങൾ)
+Malayalam Explanation
+
+Adjective noun‑നെ വിശദീകരിക്കും. Adverb verb‑നെ വിശദീകരിക്കും.
+
+Adjectives (describe noun)
+
+big, small, good, bad, happy
+
+Adverbs (describe verb)
+
+slowly, fast, well
+
+Example:
+
+She is a good teacher.
+
+He runs fast.
+
+9. Basic Vocabulary (അടിസ്ഥാന വാക്കുകൾ)
+Malayalam Explanation
+
+ദൈനംദിന ജീവിതത്തിൽ ഉപയോഗിക്കുന്ന സാധാരണ വാക്കുകൾ പഠിക്കണം.
+
+Home
+
+house, door, window, room
+
+Family
+
+father, mother, sister, brother
+
+Food
+
+rice, tea, milk, apple
+
+Colors
+
+red, blue, green, yellow
+
+10. Listening & Speaking Practice (സംസാര പരിശീലനം)
+Malayalam Explanation
+
+English പഠിക്കാൻ സംസാര പരിശീലനം വളരെ പ്രധാനമാണ്.
+
+Daily Practice
+
+Speak 5 sentences about yourself
+
+Read simple English sentences
+
+Example:
+
+My name is ____.
+
+I live in ____.
+
+I like tea.
+
+✅ Module 1 Goal (ഈ മോഡ്യൂളിന്റെ ലക്ഷ്യം)
+
+Malayalam: ഈ മോഡ്യൂൾ കഴിഞ്ഞാൽ നിങ്ങൾക്ക് basic English വായിക്കാനും ലളിതമായ വാചകങ്ങൾ സംസാരിക്കാനും കഴിയും.
+
+📝 Daily Practice Plan (15–20 minutes)
+
+Alphabet – 5 min
+
+Vocabulary – 5 min
+
+Speak 5 sentences – 5 min
+
+Read loudly – 5 min By the end of this module, you should:
+
+Read basic English
+
+Speak simple sentences
+
+Understand daily-use words
