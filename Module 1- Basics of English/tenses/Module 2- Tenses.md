@@ -22,21 +22,3 @@ Present tense has 4 types:
 2️⃣ Present Continuous
 3️⃣ Present Perfect
 4️⃣ Present Perfect Continuous
-
-### 1️⃣ SIMPLE PRESENT
-🧠 Core Idea (തലയിൽ വെക്കണം)
-
-👉 Habit / routine / fact / repeated action
-👉 NOT now happening
-
-📌 Structure (Rule)
-
-| Subject	                |   Verb            |
-|---------------------------|-------------------|
-| I / You / We / They	    |   base verb       |
-| He / She / It	            |   verb + s / es   |
-
-🔍 Why s / es?
-
-English marks 3rd person singular
-(He / She / It = one person)

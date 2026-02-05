@@ -40,145 +40,154 @@ He works in a shop.
 She teaches English.
 👉 അവൾ ഇംഗ്ലീഷ് പഠിപ്പിക്കുന്നു
 
-4️⃣ Structure (Formula)
-🔹 Positive sentence
+✅ 1️⃣ Positive Sentence
 
-Subject + Verb (V1)
+(സാധാരണ വാക്യം)
 
-⚠️ He / She / It വന്നാൽ
-👉 verb + s / es
+👉 Formula
 
-Examples
+I / You / We / They + verb
 
-I eat rice.
-👉 ഞാൻ ചോറ് കഴിക്കുന്നു
+He / She / It + verb + s / es
 
-We play cricket.
-👉 ഞങ്ങൾ ക്രിക്കറ്റ് കളിക്കുന്നു
+🟢 Examples
 
-She reads a book.
-👉 അവൾ പുസ്തകം വായിക്കുന്നു
+I work hard
+👉 ഞാൻ കഠിനമായി ജോലി ചെയ്യുന്നു
 
-He goes to school.
-👉 അവൻ സ്കൂളിൽ പോകുന്നു
+We study English
+👉 ഞങ്ങൾ ഇംഗ്ലീഷ് പഠിക്കുന്നു
 
-🔹 Negative sentence
+He plays cricket
+👉 അവൻ ക്രിക്കറ്റ് കളിക്കുന്നു
 
-Subject + do / does + not + Verb (V1)
+She likes tea
+👉 അവൾക്ക് ചായ ഇഷ്ടമാണ്
 
-Subject	Use
-I / You / We / They	do not
-He / She / It	does not
+❌ 2️⃣ Negative Sentence
 
-Examples
+(നിഷേധ വാക്യം)
 
-I do not like tea.
-👉 എനിക്ക് ചായ ഇഷ്ടമല്ല
+👉 Formula
 
-We do not watch TV.
-👉 ഞങ്ങൾ ടി.വി. കാണില്ല
+I / You / We / They + do not + verb
 
-She does not work here.
-👉 അവൾ ഇവിടെ ജോലി ചെയ്യുന്നില്ല
+He / She / It + does not + verb
 
-He does not smoke.
-👉 അവൻ പുകവലിക്കില്ല
+📌 Rule:
+👉 does വന്നാൽ verb-ന് s ഇല്ല
 
-🔹 Positive Question sentence
+🔴 Examples
 
-Do / Does + subject + Verb (V1)?
+I do not work on Sunday
+👉 ഞാൻ ഞായറാഴ്ച ജോലി ചെയ്യാറില്ല
 
-Examples
+We do not watch TV
+👉 ഞങ്ങൾ ടിവി കാണാറില്ല
 
-Do you eat rice?
-👉 നീ ചോറ് കഴിക്കുമോ?
+He does not play cards
+👉 അവൻ കാർഡുകൾ കളിക്കാറില്ല
 
-Do they come daily?
-👉 അവർ ദിവസേന വരുമോ?
+She does not like coffee
+👉 അവൾക്ക് കോഫി ഇഷ്ടമല്ല
 
-Does she like tea?
-👉 അവൾക്ക് ചായ ഇഷ്ടമാണോ?
+❓ 3️⃣ Positive Question + Answer
 
-Does he work here?
-👉 അവൻ ഇവിടെ ജോലി ചെയ്യുമോ?
+(ചോദ്യം + ഉത്തരം)
 
-🔹 Negative Question sentence
+👉 Formula
 
-Do / Does + subject + not + Verb (V1)?
+Do + I / You / We / They + verb?
 
-(Spoken: Don’t / Doesn’t)
+Does + He / She / It + verb?
 
-Examples
+🔵 Examples with Answers
 
-Do you not eat rice?
-👉 നീ ചോറ് കഴിക്കില്ലേ?
+Q: Do you work here?
+👉 നീ ഇവിടെ ജോലി ചെയ്യുന്നുണ്ടോ?
+A: Yes, I do / No, I don’t
 
-Don’t you eat rice?
+Q: Do they study English?
+👉 അവർ ഇംഗ്ലീഷ് പഠിക്കുമോ?
+A: Yes, they do / No, they don’t
 
-Does she not like tea?
+Q: Does he play cricket?
+👉 അവൻ ക്രിക്കറ്റ് കളിക്കുമോ?
+A: Yes, he does / No, he doesn’t
+
+Q: Does she cook food?
+👉 അവൾ ഭക്ഷണം ഉണ്ടാക്കുമോ?
+A: Yes, she does / No, she doesn’t
+
+❓❌ 4️⃣ Negative Question + Answer
+
+(നിഷേധ ചോദ്യം + ഉത്തരം)
+
+👉 Formula
+
+Don’t + I / You / We / They + verb?
+
+Doesn’t + He / She / It + verb?
+
+🟣 Examples with Answers
+
+Q: Don’t you work today?
+👉 നീ ഇന്ന് ജോലി ചെയ്യുന്നില്ലേ?
+A: Yes, I do / No, I don’t
+
+Q: Don’t they know you?
+👉 അവർ നിന്നെ അറിയില്ലേ?
+A: Yes, they do / No, they don’t
+
+Q: Doesn’t he study well?
+👉 അവൻ നന്നായി പഠിക്കില്ലേ?
+A: Yes, he does / No, he doesn’t
+
+Q: Doesn’t she like tea?
 👉 അവൾക്ക് ചായ ഇഷ്ടമല്ലേ?
+A: Yes, she does / No, she doesn’t
 
-Doesn’t she like tea?
+📌 Anything missing? YES ✔
+🔹 5️⃣ Spelling Rules (important)
 
-5️⃣ Answers (Short Answers)
-✔️ Yes
+play → plays
 
-Yes, I do.
-👉 അതെ, കഴിക്കും
+go → goes
 
-Yes, she does.
-👉 അതെ, ഇഷ്ടമാണ്
+watch → watches
 
-❌ No
+study → studies
 
-No, I don’t.
-👉 ഇല്ല, കഴിക്കില്ല
+🔹 6️⃣ Time words (must know)
 
-No, he doesn’t.
-👉 ഇല്ല, ചെയ്യുന്നില്ല
+always
 
-6️⃣ Time Words (Keywords)
+usually
 
-👉 ഈ words കണ്ടാൽ Simple Present
+often
 
-always – എല്ലായ്പ്പോഴും
+sometimes
 
-usually – സാധാരണയായി
+every day / week
 
-often – പലപ്പോഴും
+Example:
 
-sometimes – ചിലപ്പോഴൊക്കെ
+He always wakes up early
 
-daily / every day – ദിവസേന
+🔹 7️⃣ Common mistakes (avoid)
 
-every morning – എല്ലാ രാവിലെയും
+❌ He play cricket
+✅ He plays cricket
 
-Example
+❌ Does he plays cricket?
+✅ Does he play cricket?
 
-She always wakes up early.
-👉 അവൾ എല്ലായ്പ്പോഴും രാവിലെ എഴുന്നേൽക്കും
+✅ FINAL CHECKLIST (Simple Present)
 
-7️⃣ Practices (പരിശീലനം ✍️)
-A. Fill in the blanks
-
-She ___ (cook) food daily.
-
-He ___ (go) to office every day.
-
-We ___ (play) cricket on Sunday.
-
-B. Make negative
-
-I like tea.
-👉 I __________ tea.
-
-She works here.
-👉 She __________ here.
-
-C. Make question
-
-You eat rice.
-👉 ______ you eat rice?
-
-He plays football.
-👉 ______ he play football?
+✔ Positive sentence
+✔ Negative sentence
+✔ Positive question + answer
+✔ Negative question + answer
+✔ Verb rules
+✔ Time words
+✔ Common mistakes
