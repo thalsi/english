@@ -97,8 +97,14 @@ I wake up early every day.
 
 📝 Practice (Try yourself)
 
-1️⃣ She ____ (go) to school.
-2️⃣ They ____ (play) cricket.
-3️⃣ He ____ not ____ (like) tea.
+i walk in the moring.
+it works on the top screen.
+he runs on the rode.
+She cooks for my family.
+Raju well plays in football.
+Annu and Shin always go to school.
+They play cricate.
+We watchs TV
+
 
 
