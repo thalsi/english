@@ -11,8 +11,8 @@
 🧩 Sentence Structure
 👉 Subject + have / has + V3 (past participle)
 Subject	Helping verb
-I / You / We / They	have
-He / She / It	has
+I / You / We / They -	have
+He / She / It -	has
 ✅ എപ്പോൾ ഉപയോഗിക്കണം?
 1️⃣ Experience (ജീവിത അനുഭവം)
 
