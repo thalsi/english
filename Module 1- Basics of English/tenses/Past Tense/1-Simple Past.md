@@ -150,3 +150,40 @@ But:
 I have eaten food. (Present Perfect)
 👉 Result matters now.
 
+2️⃣ Advanced Usage
+🔹 A) Completed Action at Specific Time
+
+👉 Time must be finished.
+
+I spoke to her yesterday.
+
+She left in 2022.
+
+Malayalam: കഴിഞ്ഞ സമയത്ത് പൂര്‍ത്തിയായ പ്രവൃത്തി.
+
+🔹 B) Sequence of Events (Story Telling)
+
+Simple past is used for storytelling.
+
+Example:
+
+Yesterday I woke up, brushed my teeth, drank tea, and went to office.
+➜ ഇന്നലെ ഞാൻ എഴുന്നേറ്റു, പല്ലുതേച്ചു, ചായ കുടിച്ചു, ഓഫീസിൽ പോയി.
+
+👉 Multiple actions in order.
+
+🔹 C) Habit in the Past (Now stopped)
+
+I played cricket in school days.
+➜ സ്കൂൾ കാലത്ത് ഞാൻ ക്രിക്കറ്റ് കളിക്കാറുണ്ടായിരുന്നു.
+
+She lived in Delhi for 5 years.
+➜ അവൾ 5 വർഷം ഡെൽഹിയിൽ താമസിച്ചു.
+
+🔹 D) With “When” Clause
+
+When I entered the room, she smiled.
+➜ ഞാൻ മുറിയിൽ കയറിയപ്പോൾ അവൾ ചിരിച്ചു.
+
+When the bell rang, students ran outside.
+➜ ബെൽ മുഴങ്ങിയപ്പോൾ വിദ്യാർത്ഥികൾ പുറത്തേക്ക് ഓടി.

@@ -82,3 +82,14 @@ Short form:
 
 ❌ I was go → Wrong
 ✅ I was going → Correct
+
+7️⃣ Advanced Sentence Patterns
+🔹 Emphasis
+
+I was really trying to help you.
+➜ ഞാൻ ശരിക്കും സഹായിക്കാൻ ശ്രമിച്ചു കൊണ്ടിരുന്നു.
+
+🔹 Polite Question
+
+I was wondering if you could help me.
+➜ ഞാൻ നിങ്ങൾ സഹായിക്കാമോ എന്ന് ചിന്തിച്ചു കൊണ്ടിരുന്നു.
