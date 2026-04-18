@@ -124,6 +124,7 @@ Oh! I forgot
 | and     | Conjunction    |
 | wow     | Interjection   |
 
+-------------------------------------------------------------------------
 
 1️⃣ Affirmative Sentence (സാധാരണ/സമ്മത വാക്യം)
 
