@@ -407,3 +407,69 @@ Object ഉള്ളവ മാത്രം Passive ആക്കാം
 Object + be verb + V3 + by + subject
 
 --------------------------------------------------------------
+
+🔵 1. Direct Speech (നേരിട്ട് പറയൽ)
+
+ഒരു വ്യക്തി പറഞ്ഞ വാക്കുകൾ അവിടെ പറഞ്ഞതുപോലെ തന്നെ quotes (" ") ഉപയോഗിച്ച് എഴുതുന്നത്.
+
+👉 Structure:
+
+Subject + said, "Exact words"
+📌 Examples:
+She said, "I am happy."
+He said, "I will come tomorrow."
+
+👉 മലയാളത്തിൽ:
+
+അവൾ പറഞ്ഞു: "ഞാൻ സന്തോഷവതിയാണ്"
+അവൻ പറഞ്ഞു: "ഞാൻ നാളെ വരും"
+🟢 2. Indirect Speech (അവതരിപ്പിച്ച് പറയൽ)
+
+ആൾ പറഞ്ഞത് quotes ഇല്ലാതെ, അർത്ഥം മാറ്റാതെ സ്വന്തം വാക്കുകളിൽ പറയുന്നത്.
+
+👉 Structure:
+
+Subject + said + (that) + sentence
+🔁 മാറ്റം എങ്ങനെ ചെയ്യാം (Direct → Indirect)
+1. Quotes (" ") remove ചെയ്യണം
+"I am happy" → that she was happy
+2. Pronoun change (സർവനാമം മാറ്റം)
+I → he / she
+we → they
+
+👉 Example:
+
+She said, "I am tired"
+➡️ She said that she was tired
+
+3. Tense change (കാലം മാറ്റം)
+
+| Direct Speech | Indirect Speech |
+| ------------- | --------------- |
+| am / is       | was             |
+| are           | were            |
+| will          | would           |
+| can           | could           |
+| have          | had             |
+
+4. Time change (സമയപദങ്ങൾ മാറ്റം)
+| Direct    | Indirect     |
+| --------- | ------------ |
+| now       | then         |
+| today     | that day     |
+| tomorrow  | next day     |
+| yesterday | previous day |
+
+
+👉 Example:
+
+She said, "I will come tomorrow"
+➡️ She said that she would come the next day
+🔴 Examples (Direct → Indirect)
+He said, "I am happy"
+➡️ He said that he was happy
+She said, "I will study"
+➡️ She said that she would study
+They said, "We are playing"
+➡️ They said that they were playing
+------------------------------------------------------------
